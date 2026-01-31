@@ -1,67 +1,63 @@
-# DailyCode2026 🚀
+# 100-days-of-js-problem-solving🚀
 
-Welcome to **DailyCode2026** — my personal daily coding challenge where I solve problems, practice JavaScript, and sharpen my full-stack development skills throughout 2026.
+# 🚀 100 Days of JavaScript Problem Solving
 
-This repository is part of my journey as a **MERN Stack Developer**, focusing on writing clean, efficient, and well-documented code every single day.
+Hi! I'm **Sreesankar**, a MERN Stack Developer 👨‍💻  
+This repository documents my **100 Days of Code Challenge** where I solve JavaScript problems ranging from **basic logic to advanced DSA and interview-level challenges**.
 
 ---
 
-## 📌 Goals
+## 🎯 Challenge Goals
+- Strengthen JavaScript fundamentals
+- Improve problem-solving and DSA skills
+- Build consistency and discipline
+- Prepare for technical interviews
+- Share progress publicly on GitHub & LinkedIn
 
-* Build a strong daily coding habit
-* Improve problem-solving skills
-* Master JavaScript fundamentals & advanced concepts
-* Strengthen backend & frontend logic
-* Maintain a clean and professional GitHub contribution history
+---
+
+## 📁 Repository Structure
+Each day has its own folder:
+
+Day-XX/
+├── problem.md # Problem statement
+└── solution.js # JavaScript solution
+
+
+---
+
+## 📊 Progress Tracker
+| Day | Status |
+|-----|--------|
+| 01 | ✅ |
+| 02 | ⏳ |
+| 03 | ⏳ |
+| ... | ... |
+| 100 | ⏳ |
 
 ---
 
 ## 🛠 Tech Stack
-
-* **Language:** JavaScript
-* **Runtime:** Node.js
-* **Version Control:** Git & GitHub
-* **Editor:** VS Code
+- JavaScript (ES6+)
+- Node.js (for testing locally)
+- Git & GitHub
 
 ---
 
-## 📂 Folder Structure
+## 🌐 Connect With Me
 
-```bash
-DailyCode2026/
-│
-├── Day One/
-│   └── DuplicateArray.js
-│
-├── Day Two/
-│   └── ...
-│
-└── README.md
-```
-
-Each folder represents a day of coding with one or more problems solved inside.
-
----
-
-## 📅 Daily Log
-
-| Day   | Problem                 | Status      |
-| ----- | ----------------------- | ----------- |
-| Day 1 | Find Duplicate in Array | ✅ Completed |
-| Day 2 | Coming Soon             | ⏳ Pending   |
-
----
-
-
-## 🔗 Links
 
 * **GitHub Profile:** [https://github.com/sreesankar-p](https://github.com/sreesankar-p)
 * **Portfolio:** [https://sreesankar.vercel.app](https://sreesankar.vercel.app)
+- **LinkedIn:**
 
 ---
 
 
 > "Code every day, grow every day." 💻🔥
+    
+## ⭐ Support
+If you find this repo useful, please consider giving it a ⭐ — it motivates me to stay consistent!
 
 Happy Coding!
 
