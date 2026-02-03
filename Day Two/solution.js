@@ -21,5 +21,5 @@ function checkNumberIsevenOrOdd(n){
         return "Odd"
     }
 }
-let num = 4
+let num = 5
 console.log(checkNumberIsevenOrOdd(num))
