@@ -23,6 +23,7 @@ Day-XX/
 
 
 ├── problem.md # Problem statement
+
 └── solution.js # JavaScript solution
 
 
