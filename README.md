@@ -20,6 +20,8 @@ This repository documents my **100 Days of Code Challenge** where I solve JavaSc
 Each day has its own folder:
 
 Day-XX/
+
+
 ├── problem.md # Problem statement
 └── solution.js # JavaScript solution
 
@@ -49,7 +51,7 @@ Day-XX/
 
 * **GitHub Profile:** [https://github.com/sreesankar-p](https://github.com/sreesankar-p)
 * **Portfolio:** [https://sreesankar.vercel.app](https://sreesankar.vercel.app)
-- **LinkedIn:**
+- **LinkedIn:** [https://www.linkedin.com/in/sreesankar-p/](https://www.linkedin.com/in/sreesankar-p/)
 
 ---
 
